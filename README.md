@@ -19,3 +19,6 @@ Request - класс отправки запросов
 namespace Fnl\Api;  
 модуль fnl.api  
 /local/modules/fnl.api/ пример модуля для работы с api fnl и выгрузкой в hl блоки
+
+
+Модуль test.payment
